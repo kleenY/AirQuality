@@ -13,10 +13,11 @@ AirQuality/
 ├── code/
 │   ├── dl/                # Deep Learning Method
 │   ├── ml/                # Machine Learning Method
-│   └── system/            # System Source code
+│   ├── result/            # The Result of Our Method
+│   └── system/            # System Source Code
 │
 ├── data/
-│   ├── air+quality/       # source data
+│   ├── air+quality/       # Source data
 │   └── sp_data/           # Split data(preprocessed data)
 │
 └──  README.md             
